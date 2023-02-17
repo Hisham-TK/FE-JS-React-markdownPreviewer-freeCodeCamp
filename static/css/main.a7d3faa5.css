@@ -1,0 +1,2 @@
+body{margin:0;padding:0}#app{display:flex;flex-direction:row}#editor-wrapper{width:100%}#editor{border:1px solid gray;width:98%}#editor,#preview{min-height:80vh}#preview>*{max-width:95%}#preview>* *{max-width:100%}
+/*# sourceMappingURL=main.a7d3faa5.css.map*/

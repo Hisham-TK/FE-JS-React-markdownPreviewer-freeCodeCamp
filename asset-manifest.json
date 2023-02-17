@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/css/main.b246aa69.css",
-    "main.js": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/js/main.8ab7f746.js",
+    "main.css": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/css/main.a7d3faa5.css",
+    "main.js": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/js/main.5a3645bb.js",
     "static/js/787.5bce526e.chunk.js": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/js/787.5bce526e.chunk.js",
     "index.html": "/FE-JS-React-markdownPreviewer-freeCodeCamp/index.html",
-    "main.b246aa69.css.map": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/css/main.b246aa69.css.map",
-    "main.8ab7f746.js.map": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/js/main.8ab7f746.js.map",
+    "main.a7d3faa5.css.map": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/css/main.a7d3faa5.css.map",
+    "main.5a3645bb.js.map": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/js/main.5a3645bb.js.map",
     "787.5bce526e.chunk.js.map": "/FE-JS-React-markdownPreviewer-freeCodeCamp/static/js/787.5bce526e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b246aa69.css",
-    "static/js/main.8ab7f746.js"
+    "static/css/main.a7d3faa5.css",
+    "static/js/main.5a3645bb.js"
   ]
 }
