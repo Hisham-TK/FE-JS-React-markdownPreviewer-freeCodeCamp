@@ -1,14 +1,15 @@
-import React from 'react';
 import { createRoot } from 'react-dom/client';
-import { Provider } from 'react-redux';
-import { store } from './app/store';
-import App from './App';
+import Provider from 'react-redux/es/components/Provider';
+import App from './features/App';
+import { store } from './redux/store';
 import reportWebVitals from './reportWebVitals';
-import './index.css';
+import './styles/styles.sass';
+import React from 'react';
 
-const container = document.getElementById('root')!;
+const container = document.getElementById('root');
+if (!container) throw new Error('empty container element');
+
 const root = createRoot(container);
-
 root.render(
   <React.StrictMode>
     <Provider store={store}>
